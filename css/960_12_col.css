@@ -26,6 +26,12 @@ body {
   width: 960px;
 }
 
+.center-content {
+  width: 960px; /* Adjust the width as per your requirement */
+  margin: 0 auto;
+  text-align: center;
+}
+
 /* `Grid >> Global
 ----------------------------------------------------------------------------------------------------*/
 
